@@ -46,7 +46,7 @@
 ## Contact Me
 
 - **Email**: nazimov.amu@yandex.ru
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
+- **LinkedIn**: https://www.linkedin.com/in/alexander-nazimov-61238133a/
 - **Telegram**: https://t.me/nazimov_amu
 
 Feel free to connect with me to discuss potential collaborations, opportunities, or just to say hi! 😊
