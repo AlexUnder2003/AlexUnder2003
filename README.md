@@ -59,6 +59,45 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ---
+Отлично! Вот английская версия твоего блока **Projects**, с подробностями про FastAPI и ML embeddings:
+
+---
+
+## My Projects
+
+### 1. **ArtEvo**
+
+* **Description**: A Pinterest-like platform for image generation and recommendations.
+* **Technologies**: Python, Django, DRF, React, TailwindCSS
+* **Highlights**:
+
+  * Personalized image recommendation system
+  * Image generation based on user preferences
+  * Interactive and user-friendly interface
+
+### 2. **FMS Agent**
+
+* **Description**: An automated agent for assignment verification, analyzing videos and files.
+* **Technologies**: Python, FastAPI, Celery, OpenCV, PostgreSQL
+* **Highlights**:
+
+  * Asynchronous task processing with Celery
+  * Multi-format media analysis (videos, PDFs, images)
+  * Scalable architecture for handling large data streams
+
+### 3. **Personal Knowledge Base (RAG for Obsidian)**
+
+* **Description**: A personal tool based on Retrieval-Augmented Generation (RAG) for searching and structuring information in Obsidian.
+* **Technologies**: Python, FastAPI, LangChain, OpenAI/ML embeddings, PostgreSQL, FAISS/ChromaDB
+* **Highlights**:
+
+  * Uses ML embeddings for semantic search across notes
+  * Quickly links new notes to existing documents
+  * FastAPI-based API for integration with other tools
+  * Supports large-scale data with efficient vector database storage
+  * Easily extendable to new data types (PDFs, text, images)
+
+---
 
 ## Contact Me
 
