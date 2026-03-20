@@ -99,7 +99,8 @@
 
 - **Email**: nazimov.amu@yandex.ru
 - **LinkedIn**: https://www.linkedin.com/in/alexander-nazimov-ab8222389/
-- **Telegram**: https://t.me/nazimov_amu
+- **Telegram**: https://t.me/nazimov_amu, https://t.me/edinica_one
+- **HABR**: https://habr.com/ru/users/AlexUnder2003/
 
 Feel free to connect with me to discuss potential collaborations, opportunities, or just to say hi! 😊
 <!---
